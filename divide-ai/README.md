@@ -48,7 +48,7 @@ problema NP-difícil, então o resultado é uma boa heurística, não uma prova 
 Requisitos: Python 3.10 ou mais novo.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/divide-ai.git
+git clone https://github.com/samidgiraldello/divide-ai.git
 cd divide-ai
 
 python -m venv .venv
